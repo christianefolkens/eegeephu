@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jidaumohlu.munc.com/sitemap.xml
